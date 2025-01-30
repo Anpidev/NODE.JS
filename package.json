@@ -21,9 +21,10 @@
     "picocolors": "^1.1.1"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.26.5",
     "standart": "^6.1.0"
   },
   "eslintConfig": {
-    "extends":"standart"
+    "extends": "standart"
   }
 }
